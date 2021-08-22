@@ -1,0 +1,8 @@
+.nav_bar{
+    background-color: rgb(209, 209, 209);
+    width: 100vw;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
