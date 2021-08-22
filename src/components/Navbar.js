@@ -9,7 +9,7 @@ export default function Navbar() {
                     <h2>Foodiffy</h2>
                 </div>
                 <div className="links">
-                    <ul>
+                    <ul className="ul">
                         <li><a href="/">Eatclub</a></li>
                         <li><a href="/">Deals</a></li>
                         <li><a href="/">Cart</a></li>
